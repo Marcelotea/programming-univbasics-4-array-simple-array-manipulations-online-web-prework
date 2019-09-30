@@ -1,1 +1,3 @@
 push
+.pop
+.shift
